@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">CARE YOUR PET</string>
     <string name="bienvenido">Bienvenido!</string>
+    <string name="logo">logo</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="empty"></string>
+    <string name="preferencia">Preferencias</string>
+    <string name="gatos">Gatos</string>
+    <string name="perros">Perros</string>
+    <string name="aves">Aves</string>
+    <string name="resumen">Resumen sobre usted</string>
+    <string name="recibircorreos">Recibir correos sobre publicaciones</string>
+    <string name="confirmacionRegisto">Gracias por registrarse</string>
+    <string name="susdatos">Estos son sus datos:</string>
+
 </resources>
