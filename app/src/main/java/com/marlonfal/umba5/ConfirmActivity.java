@@ -4,6 +4,7 @@ import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
 import android.widget.TextView;
 
 import com.marlonfal.umba5.Classes.Person;
@@ -35,5 +36,10 @@ public class ConfirmActivity extends AppCompatActivity {
             txtDatos = findViewById(R.id.txtDatos);
             txtDatos.setText(person.toString());
         }
+    }
+
+    public void closeApp(View v){
+        finish();
+        System.exit(0);
     }
 }

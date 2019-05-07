@@ -16,5 +16,7 @@
     <string name="recibircorreos">Recibir correos sobre publicaciones</string>
     <string name="confirmacionRegisto">Gracias por registrarse</string>
     <string name="susdatos">Estos son sus datos:</string>
+    <string name="salir">Salir</string>
+
 
 </resources>
